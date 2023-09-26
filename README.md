@@ -15,7 +15,7 @@
 
 - Resume **https://drive.google.com/file/d/1OVuYsFTb5Zzcsi4kI1khwjlJVsYCaCuP/view?usp=sharing**
 
-- ⚡ Fun fact ** I like giving advice but find it tough to implement myself.**
+- ⚡ Fun fact **I like giving advice but find it tough to implement myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
