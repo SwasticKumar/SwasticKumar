@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💻 All of my projects are available at [https://swasticblog.com](https://github.com/SwasticKumar)
+
 - 💬 Ask me about **MERN,WordPress**
 
 - 📫 How to reach me **kswastic@gmail.com**
 
-- ⚡ Fun fact ** I like giving advice but find it tough to implement myself.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" />**
+- Resume [https://drive.google.com/file/d/1OVuYsFTb5Zzcsi4kI1khwjlJVsYCaCuP/view?usp=sharing]
+
+- ⚡ Fun fact ** I like giving advice but find it tough to implement myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
