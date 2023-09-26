@@ -33,10 +33,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="express" width="40" height="40"/> </a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="express" width="45" height="40"/> </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="html5" width="40" height="40"/> </a> 
