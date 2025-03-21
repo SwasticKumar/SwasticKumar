@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastickumar&label=Profile%20views&color=0e75b6&style=flat" alt="swastickumar" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m working as **Software Developer** in BCPL
 
 - 👨‍💻 All of my projects are available at [https://swasticblog.com](https://github.com/SwasticKumar)
 
-- 💬 Ask me about **MERN,WordPress**
+- 💬 Ask me about **ReactJs,WordPress**
 
 - 📫 How to reach me **kswastic@gmail.com**
 
