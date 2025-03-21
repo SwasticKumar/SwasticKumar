@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kswastic@gmail.com**
 
-- Resume **https://drive.google.com/file/d/1cqoEKtFDafKJs_b-fIAogGtO_DVYmIYa/view?usp=sharing**
+- Resume **[https://drive.google.com/file/d/1cqoEKtFDafKJs_b-fIAogGtO_DVYmIYa/view?usp=sharing](https://drive.google.com/file/d/1bgivXBjS02cZ5E4bkAnfZmnYPXO85Fsl/view?usp=sharing)**
 
 - ⚡ Fun fact **I like giving advice but find it tough to implement myself.**
 
